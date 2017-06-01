@@ -1,13 +1,13 @@
 #assessment 2
 <!-- -->
 
-   # makeCacheMatrix is a function that returns a list of functions
-# Its puspose is to store a martix and a cached value of the inverse of the 
-# matrix. Contains the following functions:
-# setMat      set the value of a matrix
-# getMat      get the value of a matrix
-# cacheInv   get the cahced value (inverse of the matrix)
-# getInv     get the cahced value (inverse of the matrix)
+makeCacheMatrix is a function that returns a list of functions
+Its puspose is to store a martix and a cached value of the inverse of the 
+matrix. Contains the following functions:
+setMat      set the value of a matrix
+getMat      get the value of a matrix
+cacheInv   get the cahced value (inverse of the matrix)
+getInv     get the cahced value (inverse of the matrix)
 makeCacheMatrix <- function(x = matrix()) {
   cache <- NULL
   
