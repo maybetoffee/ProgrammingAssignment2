@@ -62,9 +62,9 @@ cacheSolve <- function(y, ...) {
 ```   
 
 And then we are going to demonstrate how to run these codes:
-the first thing to do is set the directory, I saved the file in D:\coursera_R and named it makecachematrix.R, when you clone the #directory, don't forget to change D:\ into D:/;
+the first thing to do is set the directory, I saved the file in D:\coursera_R and named it assessement2.R, when you clone the #directory, don't forget to change D:\ into D:/;
 ``` R
-> source("D:/coursera_R/makecachematrix.R")
+> source("D:/coursera_R/assessment2.R")
 ```
 and initialize the matrix:
 ``` R 
